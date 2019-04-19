@@ -1,5 +1,5 @@
 # chicken_detection
-chicken detection and sick chicken classification
+chicken detection and sick ji classification
 step1:拍摄家禽视频
 step2:特征提取
 step3:特征压缩
